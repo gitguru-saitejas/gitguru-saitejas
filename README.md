@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year **Artificial Intelligence & Machine Learning** student who enjoys turning ideas into working products.
+I'm a 4th-year **Artificial Intelligence & Machine Learning** student who enjoys turning ideas into working products.
 
 My interests span across **AI/ML, full-stack development, cloud computing, and DevOps**. I like understanding systems end-to-end, from writing the backend and integrating AI models to containerizing applications and deploying them.
 
